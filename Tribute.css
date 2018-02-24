@@ -1,0 +1,41 @@
+.container
+{
+	text-align: center;
+	background: rgba(1,1,1,0.08);
+}
+h1
+{
+	font-size: 4.5em;
+}
+h3
+{
+	font-size: 2em;
+}
+.Author
+{   padding: 30px;
+	text-align: center;
+}
+.editor-solid
+{
+	border: 3px solid #343436;
+	background: #343436;
+}
+.editor-outline
+{
+	border: 3px solid #343436;
+    border-radius: 2px;
+    background: none;
+}
+.navbar-inverse .navbar-brand,button
+{
+	color: white;
+}
+.brand
+{
+	color: white;
+	text-align: auto;
+}
+.details
+{
+	text-align: left;
+}
